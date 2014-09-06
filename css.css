@@ -13,7 +13,8 @@ height:100vh;
 background-color:grey;
 }
 #button {
-background-color:#718AA5;
+background-color:#0185FC;
 width:200px;
 height: 50px;
+margin:0 auto;
 }
