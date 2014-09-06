@@ -4,13 +4,13 @@ font-family: 'Lato', sans-serif;
 #wrapper {
 width: 50%;
     margin: 0 auto;
-	background-color:white;
+	background-color:#F2F2F2;
 }
 #body {
 width:75%;
 margin: 0 auto;
 height:100vh;
-background-color:grey;
+background-color:#FAFAFA;
 }
 #button {
 background-color:#0185FC;
