@@ -1,0 +1,14 @@
+h3,p {
+font-family: 'Lato', sans-serif;
+}
+#wrapper {
+width: 50%;
+    margin: 0 auto;
+	background-color:white;
+}
+#body {
+width:75%;
+margin: 0 auto;
+height:100vh;
+background-color:grey;
+}
