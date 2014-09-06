@@ -12,3 +12,8 @@ margin: 0 auto;
 height:100vh;
 background-color:grey;
 }
+#button {
+background-color:718AA5;
+width:25%;
+height: 50px;
+}
